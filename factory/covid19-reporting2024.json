@@ -1,0 +1,9 @@
+{
+	"name": "covid19-reporting2024",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "689c7b3a-4054-4cd3-b378-6ec1c910a420",
+		"tenantId": "d8bf5cde-2ec8-4cba-b669-e366d7a9189c"
+	}
+}
